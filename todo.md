@@ -1,0 +1,34 @@
+# Project TODO
+
+- [x] Guided “Learn from Scratch” onboarding with plain-language definitions for LLM, prompt, workflow, dataset, test case, evaluation, regression, metric, release gate, and human review
+- [x] Customer-support answer quality as the initial narrow AI task
+- [ ] Workflow registry with expected behavior documentation
+- [ ] Prompt version management
+- [ ] Model version management
+- [ ] Versioned evaluation datasets
+- [ ] Structured test cases with expected outcomes, categories, difficulty labels, and safety/adversarial cases
+- [ ] Evaluation runs against selected workflow versions and datasets
+- [ ] Per-case outputs, pass/fail scores, latency, estimated token use, and estimated cost
+- [ ] Configurable scorecards for task success, grounded/citation correctness, refusal behavior, tool-output format correctness, and prompt-injection resistance
+- [ ] Side-by-side comparison of two evaluation runs
+- [ ] Aggregate metric deltas and exact regression failure inspector
+- [ ] Configurable release-gate rules that block candidate versions below critical thresholds
+- [ ] Human-review queue for uncertain or high-impact cases
+- [ ] Reviewer decisions and automated-versus-human agreement metrics
+- [x] Professional dashboard with baseline-versus-candidate performance and recent runs
+- [x] Quality trend indicators
+- [x] Clear empty, loading, and error states
+- [x] In-app learning notes
+- [x] Project roadmap explaining what was built, why it matters in interviews, and the next milestone
+- [x] Elegant, professional, responsive dashboard visual system
+- [x] Backend schema, queries, and typed procedures
+- [x] Vitest coverage for core evaluation and release-gate logic
+- [x] Visual verification and end-to-end smoke testing
+
+- [x] Implement real DB helpers and typed tRPC procedures for workflows, versions, datasets, test cases, runs, scorecards, release gates, and review items
+- [ ] Replace hardcoded dashboard/demo arrays with persisted data and real create/edit/run flows
+- [ ] Wire compare, roadmap, learn, workflow, and dataset routes to distinct pages/components
+- [ ] Add feature-level loading, empty, and error states for workflows, datasets, runs, comparisons, and reviews
+- [ ] Implement persisted reviewer decisions and automated-versus-human agreement metrics
+- [x] Execute and verify evaluation/release-gate Vitest tests in the active test configuration
+- [x] Complete visual verification and end-to-end smoke testing
