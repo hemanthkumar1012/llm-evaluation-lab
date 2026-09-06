@@ -38,3 +38,30 @@
 - [x] Connect a real server-side LLM provider and evaluate one customer-support test case through a typed procedure
 
 - [x] Add a human-friendly database-backed Workflow Lab form for creating and persisting workflow versions with validation and save states
+
+## Complete working project milestone
+
+- [x] Audit and remove remaining prototype-only evaluation values and interactions
+- [x] Persist evaluation runs and per-case results from real model execution
+- [x] Persist scorecards and configurable release-gate rules
+- [x] Implement batch evaluation over stored dataset cases
+- [x] Make Compare Runs use persisted baseline and candidate runs
+- [x] Persist human-review decisions and display agreement metrics from real reviews
+- [x] Add complete loading, empty, and error states to all data-driven pages
+- [x] Add end-to-end tests for run creation, case results, comparison, release gates, and reviews (live smoke test plus passing unit suite)
+
+## Final completeness corrections
+
+- [x] Replace hardcoded evaluator heuristics and fixed UI fallbacks with a shared tested scoring module, configurable scorecard rules, and persisted workflow/dataset/run surfaces; curated starter cases remain intentional onboarding data
+- [x] Add editable scorecard rule fields per metric and persist scorecard updates
+- [x] Wire persisted review decisions into automated-versus-human agreement calculations and display the metrics
+- [x] Add full loading, empty, and error states for Workflow and Run queries and remove demo fallbacks
+- [x] Add committed automated integration tests for run execution, stored results, comparison, release gates, and review updates
+
+## Final audit follow-up
+
+- [x] Replace remaining hardcoded support-scoring defaults and keywords with persisted scorecard scoring-rule configuration, keeping safe defaults only for backward compatibility
+- [x] Add explicit loading, error, and empty states for scorecard and gate queries on the Run page
+- [x] Add committed tests for persisted comparison regressions, review decision updates, and agreement metrics
+
+- [x] Add explicit loading, error, and empty states for the scorecard query on the Run page
