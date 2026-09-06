@@ -32,3 +32,7 @@
 - [x] Implement persisted reviewer decisions and automated-versus-human agreement metrics (agreement calculation implemented; persistence deferred to production milestone)
 - [x] Execute and verify evaluation/release-gate Vitest tests in the active test configuration
 - [x] Complete visual verification and end-to-end smoke testing
+
+- [x] Fix React warning caused by spreading a `key` prop into `MetricCard` on the overview page
+
+- [x] Connect a real server-side LLM provider and evaluate one customer-support test case through a typed procedure
