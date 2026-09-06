@@ -27,8 +27,8 @@
 
 - [x] Implement real DB helpers and typed tRPC procedures for workflows, versions, datasets, test cases, runs, scorecards, release gates, and review items
 - [ ] Replace hardcoded dashboard/demo arrays with persisted data and real create/edit/run flows
-- [ ] Wire compare, roadmap, learn, workflow, and dataset routes to distinct pages/components
+- [x] Wire compare, roadmap, learn, workflow, and dataset routes to distinct pages/components
 - [ ] Add feature-level loading, empty, and error states for workflows, datasets, runs, comparisons, and reviews
-- [ ] Implement persisted reviewer decisions and automated-versus-human agreement metrics
+- [ ] Implement persisted reviewer decisions and automated-versus-human agreement metrics (agreement calculation is implemented; persistence remains)
 - [x] Execute and verify evaluation/release-gate Vitest tests in the active test configuration
 - [x] Complete visual verification and end-to-end smoke testing
