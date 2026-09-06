@@ -36,3 +36,5 @@
 - [x] Fix React warning caused by spreading a `key` prop into `MetricCard` on the overview page
 
 - [x] Connect a real server-side LLM provider and evaluate one customer-support test case through a typed procedure
+
+- [x] Add a human-friendly database-backed Workflow Lab form for creating and persisting workflow versions with validation and save states
