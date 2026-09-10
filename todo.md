@@ -65,3 +65,21 @@
 - [x] Add committed tests for persisted comparison regressions, review decision updates, and agreement metrics
 
 - [x] Add explicit loading, error, and empty states for the scorecard query on the Run page
+
+## Human-authored product finish
+
+- [x] Replace generic/template-like visual cues with a distinctive Signal Lab design language
+- [x] Rewrite overview and product-page copy to sound specific, authored, and evidence-driven
+- [x] Refine navigation, cards, metrics, empty states, and interaction details for a senior-engineered finish
+- [x] Verify responsive layout, accessibility states, type-checks, tests, and visual quality after the redesign
+
+## Redesign verification follow-up
+
+- [x] Carry the Signal Lab instrument-panel language into Workflow Lab and Evaluation Runner secondary surfaces
+- [x] Verify the redesign at a mobile viewport and confirm navigation, forms, and primary actions remain usable
+- [x] Perform source-level keyboard/focus verification for primary navigation and page actions; native controls remain keyboard reachable and focus-visible styling is implemented
+
+## Interaction verification follow-up
+
+- [x] Run explicit mobile interaction checks for overview CTA navigation, Workflow action focus, and Evaluation Runner control focus/availability using Playwright at 390x844
+- [x] Audit primary navigation and key actions for keyboard focus and visible focus across the main pages; Playwright verified primary action focus and global focus-visible rules cover native controls
