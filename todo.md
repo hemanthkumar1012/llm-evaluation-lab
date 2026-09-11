@@ -92,7 +92,7 @@
 - [x] Add portfolio-ready architecture, setup, evaluation, testing, and interview walkthrough documentation
 - [x] Clean generated or misleading artifacts without removing required runtime files
 - [x] Verify type-check, tests, production build, and repository contents
-- [ ] Push the finished repository to the user’s GitHub account (blocked until GitHub integration is enabled)
+- [x] Push the finished repository to the user’s GitHub account; private repository is up to date on `main`
 
 ## Final repository trace audit
 
