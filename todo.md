@@ -83,3 +83,19 @@
 
 - [x] Run explicit mobile interaction checks for overview CTA navigation, Workflow action focus, and Evaluation Runner control focus/availability using Playwright at 390x844
 - [x] Audit primary navigation and key actions for keyboard focus and visible focus across the main pages; Playwright verified primary action focus and global focus-visible rules cover native controls
+
+## GitHub portfolio packaging
+
+- [x] Audit and remove remaining template, platform, placeholder, and demo-only traces from the repository; framework-specific runtime files and test fixtures remain intentionally
+- [x] Rewrite README and project documentation in an authored first-person engineering voice
+- [x] Align project metadata, scripts, comments, and seed data with Signal Lab naming
+- [x] Add portfolio-ready architecture, setup, evaluation, testing, and interview walkthrough documentation
+- [x] Clean generated or misleading artifacts without removing required runtime files
+- [x] Verify type-check, tests, production build, and repository contents
+- [ ] Push the finished repository to the user’s GitHub account (blocked until GitHub integration is enabled)
+
+## Final repository trace audit
+
+- [x] Audit remaining platform/runtime branding and document which files must remain for managed deployment
+- [x] Align remaining comments, auth fixtures, and seed/test labels with Signal Lab naming where safe; remaining platform labels are isolated to required runtime adapters and documented
+- [x] Re-run a focused trace audit and record intentional framework/runtime exceptions

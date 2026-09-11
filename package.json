@@ -1,6 +1,8 @@
 {
-  "name": "llm-evaluation-lab",
+  "name": "signal-lab",
   "version": "1.0.0",
+  "description": "Evidence-driven evaluation workspace for customer-support AI workflows.",
+  "author": "Hemanth Kumar Yadav",
   "type": "module",
   "license": "MIT",
   "scripts": {
@@ -10,6 +12,7 @@
     "check": "tsc --noEmit",
     "format": "prettier --write .",
     "test": "vitest run",
+    "ui:smoke": "node scripts/ui-smoke.mjs",
     "db:push": "drizzle-kit generate && drizzle-kit migrate"
   },
   "dependencies": {

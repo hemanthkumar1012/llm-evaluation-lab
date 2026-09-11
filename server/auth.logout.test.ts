@@ -15,10 +15,10 @@ function createAuthContext(): { ctx: TrpcContext; clearedCookies: CookieCall[] }
 
   const user: AuthenticatedUser = {
     id: 1,
-    openId: "sample-user",
-    email: "sample@example.com",
-    name: "Sample User",
-    loginMethod: "manus",
+    openId: "signal-lab-test-user",
+    email: "test.user@signal-lab.local",
+    name: "Signal Lab Test User",
+    loginMethod: "oauth",
     role: "user",
     createdAt: new Date(),
     updatedAt: new Date(),
