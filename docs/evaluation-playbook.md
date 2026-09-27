@@ -149,3 +149,7 @@ Define **scorecard configuration** as an explicit evaluation practice. Record in
 ## 37. Threshold management
 
 Define **threshold management** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 38. Gate auditability
+
+Define **gate auditability** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
