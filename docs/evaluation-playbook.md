@@ -245,3 +245,7 @@ Define **pairwise evaluation** as an explicit evaluation practice. Record inputs
 ## 61. Pointwise evaluation
 
 Define **pointwise evaluation** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 62. Confidence intervals
+
+Define **confidence intervals** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
