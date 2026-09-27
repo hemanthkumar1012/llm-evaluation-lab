@@ -125,3 +125,7 @@ Define **evidence retention** as an explicit evaluation practice. Record inputs,
 ## 31. Run reproducibility
 
 Define **run reproducibility** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 32. Model metadata
+
+Define **model metadata** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
