@@ -225,3 +225,7 @@ Define **semantic similarity** as an explicit evaluation practice. Record inputs
 ## 56. Faithfulness evaluation
 
 Define **faithfulness evaluation** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 57. Hallucination detection
+
+Define **hallucination detection** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
