@@ -213,3 +213,7 @@ Define **deterministic scoring** as an explicit evaluation practice. Record inpu
 ## 53. LLM-as-a-judge
 
 Define **llm-as-a-judge** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 54. Judge calibration
+
+Define **judge calibration** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
