@@ -169,3 +169,7 @@ Define **evaluation run lifecycle** as an explicit evaluation practice. Record i
 ## 42. Failure reasons
 
 Define **failure reasons** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 43. Operational metrics
+
+Define **operational metrics** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
