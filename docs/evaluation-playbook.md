@@ -141,3 +141,7 @@ Define **dataset provenance** as an explicit evaluation practice. Record inputs,
 ## 35. Case identifiers
 
 Define **case identifiers** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 36. Scorecard configuration
+
+Define **scorecard configuration** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
