@@ -265,3 +265,7 @@ Define **benchmark contamination** as an explicit evaluation practice. Record in
 ## 66. Data leakage
 
 Define **data leakage** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 67. Privacy in evaluation
+
+Define **privacy in evaluation** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
