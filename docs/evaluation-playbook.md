@@ -209,3 +209,7 @@ Define **false negatives** as an explicit evaluation practice. Record inputs, ex
 ## 52. Deterministic scoring
 
 Define **deterministic scoring** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 53. LLM-as-a-judge
+
+Define **llm-as-a-judge** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
