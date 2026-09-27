@@ -61,3 +61,7 @@ Define **regression detection** as an explicit evaluation practice. Record input
 ## 15. Failure inspection
 
 Define **failure inspection** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 16. Human review queues
+
+Define **human review queues** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
