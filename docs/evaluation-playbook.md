@@ -161,3 +161,7 @@ Define **blocked releases** as an explicit evaluation practice. Record inputs, e
 ## 40. Release decisions
 
 Define **release decisions** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 41. Evaluation run lifecycle
+
+Define **evaluation run lifecycle** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
