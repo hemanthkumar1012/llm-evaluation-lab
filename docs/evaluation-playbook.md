@@ -25,3 +25,7 @@ Define **baseline selection** as an explicit evaluation practice. Record inputs,
 ## 6. Candidate comparison
 
 Define **candidate comparison** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 7. Pass-rate calculation
+
+Define **pass-rate calculation** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
