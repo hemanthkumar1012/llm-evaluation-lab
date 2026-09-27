@@ -133,3 +133,7 @@ Define **model metadata** as an explicit evaluation practice. Record inputs, exp
 ## 33. Prompt metadata
 
 Define **prompt metadata** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 34. Dataset provenance
+
+Define **dataset provenance** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
