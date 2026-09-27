@@ -17,3 +17,7 @@ Define **dataset versioning** as an explicit evaluation practice. Record inputs,
 ## 4. Workflow versioning
 
 Define **workflow versioning** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 5. Baseline selection
+
+Define **baseline selection** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
