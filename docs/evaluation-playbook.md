@@ -237,3 +237,7 @@ Define **reference answers** as an explicit evaluation practice. Record inputs, 
 ## 59. Rubric design
 
 Define **rubric design** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 60. Pairwise evaluation
+
+Define **pairwise evaluation** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
