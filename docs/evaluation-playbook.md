@@ -165,3 +165,7 @@ Define **release decisions** as an explicit evaluation practice. Record inputs, 
 ## 41. Evaluation run lifecycle
 
 Define **evaluation run lifecycle** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 42. Failure reasons
+
+Define **failure reasons** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
