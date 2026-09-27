@@ -177,3 +177,7 @@ Define **operational metrics** as an explicit evaluation practice. Record inputs
 ## 44. Latency outliers
 
 Define **latency outliers** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 45. Cost outliers
+
+Define **cost outliers** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
