@@ -261,3 +261,7 @@ Define **sample sizing** as an explicit evaluation practice. Record inputs, expe
 ## 65. Benchmark contamination
 
 Define **benchmark contamination** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 66. Data leakage
+
+Define **data leakage** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
