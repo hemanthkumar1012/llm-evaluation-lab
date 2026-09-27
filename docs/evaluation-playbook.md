@@ -273,3 +273,7 @@ Define **privacy in evaluation** as an explicit evaluation practice. Record inpu
 ## 68. PII handling
 
 Define **pii handling** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 69. Secrets hygiene
+
+Define **secrets hygiene** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
