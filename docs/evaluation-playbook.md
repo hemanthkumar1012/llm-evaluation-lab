@@ -269,3 +269,7 @@ Define **data leakage** as an explicit evaluation practice. Record inputs, expec
 ## 67. Privacy in evaluation
 
 Define **privacy in evaluation** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 68. PII handling
+
+Define **pii handling** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
