@@ -57,3 +57,7 @@ Define **critical thresholds** as an explicit evaluation practice. Record inputs
 ## 14. Regression detection
 
 Define **regression detection** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 15. Failure inspection
+
+Define **failure inspection** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
