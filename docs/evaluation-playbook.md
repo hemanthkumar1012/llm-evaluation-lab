@@ -77,3 +77,7 @@ Define **safety cases** as an explicit evaluation practice. Record inputs, expec
 ## 19. Prompt injection resistance
 
 Define **prompt injection resistance** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 20. Refusal behavior
+
+Define **refusal behavior** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
