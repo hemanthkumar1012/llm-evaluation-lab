@@ -205,3 +205,7 @@ Define **false positives** as an explicit evaluation practice. Record inputs, ex
 ## 51. False negatives
 
 Define **false negatives** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 52. Deterministic scoring
+
+Define **deterministic scoring** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
