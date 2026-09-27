@@ -69,3 +69,7 @@ Define **human review queues** as an explicit evaluation practice. Record inputs
 ## 17. Reviewer agreement
 
 Define **reviewer agreement** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 18. Safety cases
+
+Define **safety cases** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
