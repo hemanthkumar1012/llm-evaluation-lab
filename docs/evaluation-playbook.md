@@ -137,3 +137,7 @@ Define **prompt metadata** as an explicit evaluation practice. Record inputs, ex
 ## 34. Dataset provenance
 
 Define **dataset provenance** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 35. Case identifiers
+
+Define **case identifiers** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
