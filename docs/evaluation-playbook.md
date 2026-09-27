@@ -93,3 +93,7 @@ Define **task success** as an explicit evaluation practice. Record inputs, expec
 ## 23. Tool-format validation
 
 Define **tool-format validation** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 24. Structured outputs
+
+Define **structured outputs** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
