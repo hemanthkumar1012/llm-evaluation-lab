@@ -45,3 +45,7 @@ Define **token accounting** as an explicit evaluation practice. Record inputs, e
 ## 11. Cost estimation
 
 Define **cost estimation** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 12. Release gates
+
+Define **release gates** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
