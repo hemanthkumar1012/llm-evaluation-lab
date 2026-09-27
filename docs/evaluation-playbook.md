@@ -65,3 +65,7 @@ Define **failure inspection** as an explicit evaluation practice. Record inputs,
 ## 16. Human review queues
 
 Define **human review queues** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 17. Reviewer agreement
+
+Define **reviewer agreement** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
