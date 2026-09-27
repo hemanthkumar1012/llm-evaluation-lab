@@ -33,3 +33,7 @@ Define **pass-rate calculation** as an explicit evaluation practice. Record inpu
 ## 8. Metric aggregation
 
 Define **metric aggregation** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 9. Median latency
+
+Define **median latency** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
