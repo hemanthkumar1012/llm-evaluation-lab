@@ -173,3 +173,7 @@ Define **failure reasons** as an explicit evaluation practice. Record inputs, ex
 ## 43. Operational metrics
 
 Define **operational metrics** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 44. Latency outliers
+
+Define **latency outliers** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
