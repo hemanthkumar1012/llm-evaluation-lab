@@ -105,3 +105,7 @@ Define **expected outcomes** as an explicit evaluation practice. Record inputs, 
 ## 26. Difficulty labels
 
 Define **difficulty labels** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 27. Adversarial cases
+
+Define **adversarial cases** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
