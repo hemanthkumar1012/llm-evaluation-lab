@@ -197,3 +197,7 @@ Define **candidate drift** as an explicit evaluation practice. Record inputs, ex
 ## 49. Regression triage
 
 Define **regression triage** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 50. False positives
+
+Define **false positives** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
