@@ -153,3 +153,7 @@ Define **threshold management** as an explicit evaluation practice. Record input
 ## 38. Gate auditability
 
 Define **gate auditability** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 39. Blocked releases
+
+Define **blocked releases** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
