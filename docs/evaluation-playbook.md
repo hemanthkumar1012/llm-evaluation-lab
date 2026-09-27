@@ -37,3 +37,7 @@ Define **metric aggregation** as an explicit evaluation practice. Record inputs,
 ## 9. Median latency
 
 Define **median latency** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 10. Token accounting
+
+Define **token accounting** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
