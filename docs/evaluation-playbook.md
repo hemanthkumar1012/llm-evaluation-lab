@@ -181,3 +181,7 @@ Define **latency outliers** as an explicit evaluation practice. Record inputs, e
 ## 45. Cost outliers
 
 Define **cost outliers** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 46. Metric deltas
+
+Define **metric deltas** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
