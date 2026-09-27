@@ -257,3 +257,7 @@ Define **statistical significance** as an explicit evaluation practice. Record i
 ## 64. Sample sizing
 
 Define **sample sizing** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 65. Benchmark contamination
+
+Define **benchmark contamination** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
