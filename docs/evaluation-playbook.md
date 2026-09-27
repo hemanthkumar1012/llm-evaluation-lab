@@ -193,3 +193,7 @@ Define **baseline drift** as an explicit evaluation practice. Record inputs, exp
 ## 48. Candidate drift
 
 Define **candidate drift** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 49. Regression triage
+
+Define **regression triage** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
