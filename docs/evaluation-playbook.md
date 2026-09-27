@@ -21,3 +21,7 @@ Define **workflow versioning** as an explicit evaluation practice. Record inputs
 ## 5. Baseline selection
 
 Define **baseline selection** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 6. Candidate comparison
+
+Define **candidate comparison** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
