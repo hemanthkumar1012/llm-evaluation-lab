@@ -85,3 +85,7 @@ Define **refusal behavior** as an explicit evaluation practice. Record inputs, e
 ## 21. Groundedness
 
 Define **groundedness** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 22. Task success
+
+Define **task success** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
