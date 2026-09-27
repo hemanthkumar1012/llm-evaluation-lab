@@ -249,3 +249,7 @@ Define **pointwise evaluation** as an explicit evaluation practice. Record input
 ## 62. Confidence intervals
 
 Define **confidence intervals** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 63. Statistical significance
+
+Define **statistical significance** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
