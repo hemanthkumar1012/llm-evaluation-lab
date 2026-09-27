@@ -81,3 +81,7 @@ Define **prompt injection resistance** as an explicit evaluation practice. Recor
 ## 20. Refusal behavior
 
 Define **refusal behavior** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 21. Groundedness
+
+Define **groundedness** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
