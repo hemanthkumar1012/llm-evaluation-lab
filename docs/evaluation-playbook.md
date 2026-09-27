@@ -217,3 +217,7 @@ Define **llm-as-a-judge** as an explicit evaluation practice. Record inputs, exp
 ## 54. Judge calibration
 
 Define **judge calibration** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 55. Semantic similarity
+
+Define **semantic similarity** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
