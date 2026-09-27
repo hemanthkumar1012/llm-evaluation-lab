@@ -233,3 +233,7 @@ Define **hallucination detection** as an explicit evaluation practice. Record in
 ## 58. Reference answers
 
 Define **reference answers** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 59. Rubric design
+
+Define **rubric design** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
