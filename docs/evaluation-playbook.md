@@ -145,3 +145,7 @@ Define **case identifiers** as an explicit evaluation practice. Record inputs, e
 ## 36. Scorecard configuration
 
 Define **scorecard configuration** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 37. Threshold management
+
+Define **threshold management** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
