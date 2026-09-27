@@ -117,3 +117,7 @@ Define **high-impact cases** as an explicit evaluation practice. Record inputs, 
 ## 29. Uncertain results
 
 Define **uncertain results** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
+
+## 30. Evidence retention
+
+Define **evidence retention** as an explicit evaluation practice. Record inputs, expected behavior, observed evidence, and failure conditions so results remain reproducible and actionable.
