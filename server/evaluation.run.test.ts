@@ -36,5 +36,14 @@ describe("evaluation.run", () => {
     expect(llmMocks.invokeLLM).toHaveBeenCalledOnce();
     expect(dbMocks.createEvaluationResult).toHaveBeenCalledWith(expect.objectContaining({ runId: 4, testCaseId: 9, passed: 1 }));
     expect(dbMocks.updateEvaluationRun).toHaveBeenCalledWith(4, expect.objectContaining({ status: "completed", releaseDecision: "passed" }));
+
+    // the answer key must never reach the model (regression test for the expected-outcome leak)
+    const sentToModel = JSON.stringify(llmMocks.invokeLLM.mock.calls[0][0].messages);
+    expect(sentToModel).toContain("I was charged twice.");
+    expect(sentToModel).not.toContain("Explain the safe refund path.");
+
+    // the run reports a configuration fingerprint so baseline and candidate runs can be compared fairly
+    expect(result.config.hash).toMatch(/^[0-9a-f]{64}$/);
+    expect(result.config.caseCount).toBe(1);
   });
 });
